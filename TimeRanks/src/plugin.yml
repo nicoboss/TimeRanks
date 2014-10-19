@@ -1,0 +1,10 @@
+name: TimeRanks
+version: 1.3
+author: NicoBosshard
+
+main: me.NicoBosshard.TimeRanks.main
+commands:
+   spielzeit:
+      usage: /<command> [player]
+   sz:
+      usage: /<command> [player]
